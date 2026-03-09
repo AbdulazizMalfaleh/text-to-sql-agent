@@ -33,10 +33,10 @@ Result:     Table with data + business insight + follow-up suggestions
 ## Screenshots
 
 ### Natural Language → SQL Query (Agent Demo)
-![ Natural Language → SQL Query (Agent Demo)](C:\Users\user\Desktop\Text_to_sql\screenshots\15.jpeg)
+![ Natural Language → SQL Query (Agent Demo)](screenshots/15.jpeg)
 
 ### VDatabase Statistics — 1M rows processed
-![Database Statistics — 1M rows processed](C:\Users\user\Desktop\Text_to_sql\screenshots\image.png)
+![Database Statistics — 1M rows processed](screenshots/image.png)
 
 ---
 
