@@ -35,7 +35,7 @@ Result:     Table with data + business insight + follow-up suggestions
 ### Natural Language → SQL Query (Agent Demo)
 ![ Natural Language → SQL Query (Agent Demo)](screenshots/15.jpeg)
 
-### VDatabase Statistics — 1M rows processed
+### Database Statistics — 1M rows processed
 ![Database Statistics — 1M rows processed](screenshots/image.png)
 
 ---
