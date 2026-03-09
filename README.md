@@ -32,11 +32,11 @@ Result:     Table with data + business insight + follow-up suggestions
 
 ## Screenshots
 
-### Videos per Category — real data from 1M rows
-![Videos per category](screenshots/screenshot1.png)
+### Natural Language → SQL Query (Agent Demo)
+![ Natural Language → SQL Query (Agent Demo)](C:\Users\user\Desktop\Text_to_sql\screenshots\15.jpeg)
 
-### Videos per Region + Top 10 Most Viewed
-![Videos per region and top 10](screenshots/screenshot2.png)
+### VDatabase Statistics — 1M rows processed
+![Database Statistics — 1M rows processed](C:\Users\user\Desktop\Text_to_sql\screenshots\image.png)
 
 ---
 
