@@ -1,0 +1,14 @@
+# Core requirements (always needed)
+flask
+requests
+
+# SQL Server connection (for agent.py)
+pyodbc
+
+# Optional: cloud AI backends
+# openai
+# anthropic
+
+# Optional: cloud databases
+# psycopg2-binary   # PostgreSQL
+# google-cloud-bigquery  # BigQuery

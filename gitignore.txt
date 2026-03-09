@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database files (contain real data)
+data/sample.db
+*.db
+*.sqlite
+
+# Environment variables (contain secrets)
+.env
+
+# Kaggle / dataset files (too large for GitHub)
+youtube_dataset/
+*.csv
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
